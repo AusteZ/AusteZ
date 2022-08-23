@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AusteZ
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C# and .NET
 - 📫 How to reach me auste.zuklyte@gmail.com
 
 <!---
